@@ -1,0 +1,4 @@
+[submodule "testHibernate"]
+	path = testHibernate
+	url = https://github.com/CCavalier/testHibernate.git
+	branch = submoduleExample
